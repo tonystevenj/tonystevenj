@@ -5,7 +5,7 @@
 https://tonystevenj.github.io/
 
 ### Projects
-**Data Collector:**https://tonystevenj.github.io/height-collector-spring/
+**Data Collector:** https://tonystevenj.github.io/height-collector-spring/
 
 <!--
 **tonystevenj/tonystevenj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
