@@ -1,7 +1,7 @@
 ## Hi there 👋
 ___
 
-### 😄 my githubpage
+### 😄 My githubpage
 https://tonystevenj.github.io/
 
 ### Projects
