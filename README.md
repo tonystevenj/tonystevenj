@@ -5,6 +5,7 @@
 https://tonystevenj.github.io/
 
 ### Projects
+___
 
 **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-page/#/introduction
 
