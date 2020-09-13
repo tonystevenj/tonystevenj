@@ -1,16 +1,14 @@
 ## Hi there 👋
 
 ### 😄 My githubpage
-___
 
 https://tonystevenj.github.io/
 
 ### Projects
-___
 
-**Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-page/#/introduction
+  **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-page/#/introduction
 
-**Data Collector:** https://tonystevenj.github.io/height-collector-spring/
+  **Data Collector:** https://tonystevenj.github.io/height-collector-spring/
 
 <!--
 **tonystevenj/tonystevenj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
