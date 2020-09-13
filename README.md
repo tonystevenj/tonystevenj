@@ -5,6 +5,7 @@
 https://tonystevenj.github.io/
 
 ### Projects
+**Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-page/#/introduction
 **Data Collector:** https://tonystevenj.github.io/height-collector-spring/
 
 <!--
