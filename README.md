@@ -8,7 +8,7 @@ https://tonystevenj.github.io/
 
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019/
 
-  **Data Collector:** https://tonystevenj.github.io/height-collector-spring/
+  **Data Collector:** https://github.com/tonystevenj/height-collector-spring
 
 <!--
 **tonystevenj/tonystevenj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
