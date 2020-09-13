@@ -1,13 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 
-### 😄 my githubpage:
-
-
+### 😄 my githubpage
 https://tonystevenj.github.io/
 
-### Projects:
-#### Data Collector: 
+### Projects
+#### Data Collector
 https://tonystevenj.github.io/height-collector-spring/
 
 <!--
