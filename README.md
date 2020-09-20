@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 😄 My githubpage
+### Know more about me:
 
 https://tonystevenj.github.io/
 
