@@ -2,7 +2,7 @@
 
 ### Know more about me:
 
-https://tonystevenj.github.io/steven/
+https://www.tonystevenj.com
 
 ### Projects
 
