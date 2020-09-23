@@ -2,7 +2,7 @@
 
 ### Know more about me:
 
-[https://www.tonystevenj.com](https://www.tonystevenj.com)
+[www.tonystevenj.com](http://www.tonystevenj.com)
 
 ### Projects
 
