@@ -17,7 +17,7 @@
 Play some little game developed by JavaScript through your browser!
 
 
-  **Pig game:** https://tonystevenj.github.io/prosperity-adviser-fall2019
+  **Pig game:** http://www.tonystevenj.com/pig-game/
  
 <!--
 **tonystevenj/tonystevenj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
