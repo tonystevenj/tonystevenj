@@ -14,7 +14,7 @@
   
   
 ### Fun time!
-Play some little game developed by JavaScript through your browser!
+Play some mini-games developed by JavaScript through your browser!
 
 
   **Pig game:** http://www.tonystevenj.com/pig-game/
