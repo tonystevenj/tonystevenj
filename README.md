@@ -19,9 +19,9 @@ Play some mini-games developed by JavaScript through your browser!
 
   **Pig game:** http://www.tonystevenj.com/pig-game/
  
-<details>
  
-### Relax
+ ### Relax
+<details>
 <summary>📷</summary>
 <img src="https://img.iplaysoft.com/wp-content/uploads/2019/free-images/free_stock_photo.jpg"/>
 </details>
