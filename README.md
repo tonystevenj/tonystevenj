@@ -1,10 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-### Know more about me:
-
+## Know more about me:
+-----------------------
 [www.tonystevenj.com](http://www.tonystevenj.com)
 
-### Projects
+## Projects
+-----------------------
 
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019
 
@@ -13,14 +14,16 @@
   **Streaming Processing Tutorial in Flink:** https://github.com/tonystevenj/simple-flink-tutorial
   
   
-### Fun time!
+## Fun time!
+-----------------------
 Play some mini-games coded by steven through your browser!
 
 
   **Pig game:** http://www.tonystevenj.com/pig-game/
  
  
- ### Relax
+ ## Relax
+ -----------------------
 <details>
 <summary>📷</summary>
 <img src="https://raw.githubusercontent.com/tonystevenj/tonystevenj/master/%E9%9D%92%E6%A9%993-%E5%B0%8F%E6%96%87%E4%BB%B6.jpg"/>
