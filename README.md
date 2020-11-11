@@ -10,7 +10,7 @@
 
   **Data Collector:** https://github.com/tonystevenj/height-collector-spring
   
-  **Streaming Processing Tutorial in Flink:** https://github.com/tonystevenj/flink-simple-tutorial
+  **Streaming Processing Tutorial in Flink:** https://github.com/tonystevenj/simple-flink-tutorial
   
   
 ### Fun time!
