@@ -14,7 +14,7 @@
   
   
 ### Fun time!
-Play some mini-games developed by JavaScript through your browser!
+Play some mini-games coded by steven through your browser!
 
 
   **Pig game:** http://www.tonystevenj.com/pig-game/
