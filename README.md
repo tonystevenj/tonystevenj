@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Know more about me:
-[www.tonystevenj.com](http://www.tonystevenj.com)
+[tonystevenj.com](https://www.tonystevenj.com)
 
 ## Projects
 
