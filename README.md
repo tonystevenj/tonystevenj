@@ -21,7 +21,10 @@ Play some mini-games coded by steven through your browser!
   **Pig game:** http://www.tonystevenj.com/pig-game/
  
  
- ## Beautiful Photo by Photographer ME!
+ ## Pinned Photo
+ 
+ Find more beautiful photos at my studio: https://www.tonystevenj.com
+ 
 <details>
 <summary>📷</summary>
 <img src="https://raw.githubusercontent.com/tonystevenj/tonystevenj/master/%E9%9D%92%E6%A9%993-%E5%B0%8F%E6%96%87%E4%BB%B6.jpg"/>
