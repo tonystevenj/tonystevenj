@@ -18,7 +18,7 @@
 Play some mini-games coded by steven through your browser!
 
 
-  **Pig game:** https://www.tonystevenj.com/pig-game/
+  **Pig game:** https://about.tonystevenj.com/pig-game/
  
  
  ## Pinned Photo
