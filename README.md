@@ -13,6 +13,8 @@
   
   **Streaming Processing Tutorial in Flink:** https://github.com/tonystevenj/simple-flink-tutorial
   
+  **Machine Learning for Algorithmic Trading** https://github.com/shiningMCH/ML_Algo_Trading
+  
   
 ## Fun time!
 Play some mini-games coded by steven through your browser!
