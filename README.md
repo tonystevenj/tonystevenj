@@ -8,12 +8,13 @@
   **Steven J. Studio** https://www.tonystevenj.com
   
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019
+  
+  **Machine Learning for Algorithmic Trading:** https://github.com/shiningMCH/ML_Algo_Trading
 
   **Data Collector:** https://github.com/tonystevenj/height-collector-spring
   
   **Streaming Processing Tutorial in Flink:** https://github.com/tonystevenj/simple-flink-tutorial
   
-  **Machine Learning for Algorithmic Trading:** https://github.com/shiningMCH/ML_Algo_Trading
   
   
 ## Fun time!
