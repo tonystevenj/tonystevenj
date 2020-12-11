@@ -7,6 +7,8 @@
 
   **Steven J. Studio** https://www.tonystevenj.com
   
+  Host repo: https://github.com/tonystevenj/stevenj-studio-host
+  
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019
   
   **Machine Learning for Algorithmic Trading:** https://github.com/shiningMCH/ML_Algo_Trading
