@@ -10,6 +10,8 @@
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019
   
   **Machine Learning for Algorithmic Trading:** https://github.com/shiningMCH/ML_Algo_Trading
+  
+  **Valinna VAE - Celeba:** https://github.com/tonystevenj/vae-celeba-pytorch-lightning
 
   **Data Collector:** https://github.com/tonystevenj/height-collector-spring
   
