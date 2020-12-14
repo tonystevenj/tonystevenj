@@ -5,7 +5,7 @@
 
 ## Projects
 
-  **Steven J. Studio** https://www.tonystevenj.com
+  **Steven J. Studio** https://github.com/tonystevenj/stevenj-studio-host
   
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019
   
