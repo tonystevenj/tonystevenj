@@ -32,7 +32,7 @@ Play some mini-games coded by steven through your browser!
  
 <details>
 <summary>📷</summary>
-<img src="https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/pinned/5.jpg"/>
+<img src="https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/portfolio/5.jpg"/>
 </details>
 <!--
 **tonystevenj/tonystevenj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
