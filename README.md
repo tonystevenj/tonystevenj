@@ -1,8 +1,5 @@
 # Hi there 👋
 
-## Know more about me:
-[tonystevenj.com](https://www.tonystevenj.com)
-
 ## Projects
 
   **Steven J. Studio:** https://github.com/tonystevenj/stevenj-studio-host
@@ -28,7 +25,7 @@ Play some mini-games coded by steven through your browser!
  
  ## Pinned Photo
  
- Find more beautiful photos at my studio: https://www.tonystevenj.com
+ Find more beautiful photos at my photography studio: https://www.tonystevenj.com
  
 <details>
 <summary>📷</summary>
