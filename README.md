@@ -27,8 +27,8 @@ Play some mini-games coded by steven through your browser!
  
  Find more beautiful photos at my photography studio: https://www.tonystevenj.com
  
+📷
 <details>
-<summary>📷</summary>
 <img src="https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/portfolio/5.jpg"/>
 </details>
 <!--
