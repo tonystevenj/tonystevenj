@@ -25,7 +25,7 @@ Play some mini-games coded by steven through your browser!
  
  ## Pinned Photo
  
- Find more beautiful photos at my photography studio: https://www.tonystevenj.com
+ Find more beautiful photos at my photography studio: https://tonystevenj.com
  
 <details>
 <summary>📷</summary>
