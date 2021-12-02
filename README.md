@@ -20,7 +20,7 @@
 Play some mini-games coded by steven through your browser!
 
 
-  **Pig game:** https://about.tonystevenj.com/pig-game/
+  **Pig game:** https://tonystevenj.github.io/pig-game/
  
  
  ## Pinned Photo
