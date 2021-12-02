@@ -2,7 +2,7 @@
 
 ## Projects
 
-  **Steven J. Studio:** https://github.com/tonystevenj/stevenj-studio-host
+  **Steven J. Studio:** https://tonystevenj.com
   
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019
   
