@@ -45,3 +45,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+兵无常势水无常形, 能因敌变化而取胜者, 谓之神.
