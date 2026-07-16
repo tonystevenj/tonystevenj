@@ -22,9 +22,9 @@ Play some mini-games coded by steven through your browser!
 
   **Pig game:** https://tonystevenj.github.io/pig-game/
   
-  **eCoin:** https://ecoin.tonystevenjcom
+  **eCoin:** https://ecoin.tonystevenj.com
   
-  **Guitar Daily Practice** https://guitar.tonystevenjcom
+  **Guitar Daily Practice** https://guitar.tonystevenj.com
  
  
  ## Pinned Photo
