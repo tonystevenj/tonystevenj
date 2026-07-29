@@ -1,8 +1,6 @@
 # Hi there 👋
 
-## Projects
-
-  **Steven J. Studio:** https://tonystevenj.com
+## AI-Projects
   
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019
   
@@ -11,14 +9,11 @@
   **Valinna VAE - Celeba:** https://github.com/tonystevenj/vae-celeba-pytorch-lightning
 
   **Data Collector:** https://github.com/tonystevenj/height-collector-spring
-  
-  **Streaming Processing Tutorial in Flink:** https://github.com/tonystevenj/simple-flink-tutorial
-  
-  
-  
-## Fun time!
-Play some mini-games coded by steven through your browser!
 
+
+## My Toys
+
+  **My Photography Studio:** https://tonystevenj.com
 
   **Pig game:** https://tonystevenj.github.io/pig-game/
   
