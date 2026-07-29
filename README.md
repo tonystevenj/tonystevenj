@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## AI-Projects
+## Projects
   
   **Prosperity Adviser:** https://tonystevenj.github.io/prosperity-adviser-fall2019
   
